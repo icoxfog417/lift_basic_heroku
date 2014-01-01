@@ -1,0 +1,7 @@
+sbt
+clean
+compile
+quit
+exit
+reload plugins
+exit
