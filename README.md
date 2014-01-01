@@ -3,7 +3,7 @@ Lift on Heroku (Lift v2.6 M2)
 
 A basic Lift project that is ready for Heroku. See [Demo on Heroku](http://lift26.herokuapp.com/).
 
-## Push to heroku
+## Deploy to heroku
 1. clone repository  
 `git clone git@github.com:icoxfog417/lift_basic_heroku.git`
 
