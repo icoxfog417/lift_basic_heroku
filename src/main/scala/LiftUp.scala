@@ -1,4 +1,6 @@
-import org.eclipse.jetty.server.handler.ContextHandler
+
+<!-- saved from url=(0086)https://raw.github.com/icoxfog417/lift_basic_heroku/master/src/main/scala/LiftUp.scala -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import org.eclipse.jetty.server.handler.ContextHandler
 import org.eclipse.jetty.server.nio.SelectChannelConnector
 import org.eclipse.jetty.server.{Handler, Server}
 import org.eclipse.jetty.webapp.WebAppContext
@@ -29,3 +31,4 @@ object LiftUp extends App{
   server.join()
 
 }
+</pre></body></html>
