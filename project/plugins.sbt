@@ -1,5 +1,5 @@
 //add web app plugin
-addSbtPlugin("com.earldouglas" % "xsbt-web-plugin" % "0.5.0")
+addSbtPlugin("com.earldouglas" % "xsbt-web-plugin" % "0.6.0")
 
 //add start up script plugin
 addSbtPlugin("com.typesafe.sbt" % "sbt-start-script" % "0.10.0")
